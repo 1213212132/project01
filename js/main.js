@@ -3,7 +3,7 @@ $(function () {
     const option = {
 
 
-        anchors: ['01', '02', '03'],
+        anchors: ['01', '02', '03', '04', '05'],
 
 
 
